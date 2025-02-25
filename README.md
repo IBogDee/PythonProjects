@@ -1,6 +1,7 @@
 # PythonProjects
 
 # Encryption Project
+  *Dont RUN! the Encryption.py twice it will overwrite the first key*
   Files: Encryption.py and Decryption.py
   ## First Step
    Use the Encryption.py to generate the key and encrypt the path you want.

@@ -1,7 +1,7 @@
 # PythonProjects
 
 # Encryption Project
-  <code style="color : red">*Dont RUN! Encryption.py twice it will overwrite the first key*</code>
+  $${\color{red}Dont \space RUN! \space Encryption.py \space twice \space it \space will \space overwrite \space the \space first \space key }$$
 
   Files: Encryption.py and Decryption.py
   ## First Step
